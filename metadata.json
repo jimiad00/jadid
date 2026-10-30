@@ -1,0 +1,6 @@
+{
+  "name": "Grand Line Arena",
+  "description": "One Piece AI Battle Simulator with deep Conqueror's Haki scaling, devil fruit awakenings, stat matrix radar, and canonical battle commentaries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
